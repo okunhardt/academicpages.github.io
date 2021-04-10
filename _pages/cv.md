@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my full CV [here](documents/CV.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Computer Science and Mathematics, Hunter College, City Universiy of New York, Spring 2021 (Expected)
 
-Work experience
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -53,7 +53,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
