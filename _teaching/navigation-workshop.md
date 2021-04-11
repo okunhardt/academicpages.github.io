@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Autonomous Navigation Workshop"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/navigation-workshop
+venue: "CUNY Hunter College, Computer Science Department"
 date: 2015-01-01
-location: "City, Country"
+location: "New York, NY"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

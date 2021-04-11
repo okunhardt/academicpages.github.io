@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](documents/CV.pdf).
+You can find my full CV [here](../documents/CV.pdf).
 
 Education
 ======
-* B.A. in Computer Science and Mathematics, Hunter College, City Universiy of New York, Spring 2021 (Expected)
+* B.A. in Computer Science and Mathematics, CUNY Hunter College, Spring 2021 (Expected)
 
-Research experience
+Research Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
