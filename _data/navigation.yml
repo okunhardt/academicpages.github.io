@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Guides"
-    url: /markdown/
+    url: /guides/
 
   - title: "Teaching"
     url: /teaching/  
