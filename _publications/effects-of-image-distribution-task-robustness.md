@@ -3,7 +3,7 @@ title: "The Effects of Image Distribution and Task on Adversarial Robustness"
 collection: publications
 permalink: /publication/effects-of-image-distribution-task-robustness
 excerpt: 'This work examines the role of image distribution and task in the adversarial robustness in the resultant model.'
-date: 2021-18-2021
+date: 2021-02-18
 venue: 'CBMM Memo, Under Review at ICML 2021'
 paperurl: 'https://cbmm.mit.edu/sites/default/files/publications/CBMM_Memo_116_2.pdf'
 citation: 'O Kunhardt, A Deza, and T Poggio. The Effects of Image Distribution and Task on Adversarial Robustness, MIT CBMM Memo #116, under review at ICML 2021'
