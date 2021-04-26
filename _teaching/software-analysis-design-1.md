@@ -1,8 +1,8 @@
 ---
-title: "CSCI 135: Software Analysis & Design 2"
+title: "CSCI 135: Software Analysis & Design 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/software-analyis-design-2
+permalink: /teaching/software-analyis-design-1
 venue: "CUNY Hunter College, Computer Science Department"
 date: 2021-02-01
 location: "New York, NY"
